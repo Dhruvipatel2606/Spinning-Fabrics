@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1001441112995",
+    "firebase_url": "https://spinning-fabrics-f6f61-default-rtdb.firebaseio.com",
+    "project_id": "spinning-fabrics-f6f61",
+    "storage_bucket": "spinning-fabrics-f6f61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001441112995:android:d7f3cd3194b126e187a016",
+        "android_client_info": {
+          "package_name": "com.example.spinningfabrics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001441112995-s5imsopf4l0ab1gsutun4f70eqs2802g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.spinningfabrics",
+            "certificate_hash": "95a97964650443b59efb2ff4ce83423e222c57d3"
+          }
+        },
+        {
+          "client_id": "1001441112995-g6tadrafm9ho1ic3vmbebifav15mbklr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASvGF9Pjvt0aGX2XwxO703Hbqm9MMLn8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001441112995-g6tadrafm9ho1ic3vmbebifav15mbklr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
